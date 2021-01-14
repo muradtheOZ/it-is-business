@@ -1,12 +1,4 @@
 
-:root {
-    --bg-primary: #A4BC46;
-    --bg-dark: #262729;
-    --gray-dark: #999999;
-    --light-pink: #FFFBF0;
-    --bg-golden: #FABE4C;
-}
-
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -25,6 +17,17 @@ h2 {
     color: #363958;
 }
 
+/* ----------------------------coloring------------------------------------*/
+.yellow-shade{
+    color:  #FABE4C;
+}
+.blue-shade{
+    color: #363958;
+}
+.off-white-shade{
+    color: #FFFBF0;
+}
+
 
 .py-100 {
     padding-top: 100px;
@@ -36,8 +39,8 @@ h2 {
 }
 
 
-.bg-light-pink {
-    background-color: var(--light-pink);
+.bg-off-white {
+    background-color: #FFFBF0;
 }
 
 
@@ -60,16 +63,6 @@ h2 {
 .top-demo-text h1 {
     font-size: 60px;
     font-weight: 600;
-}
-
-.top-demo-text h1 span {
-    color: var(--bg-golden);
-}
-
-
-.card-title {
-    color: brown;
-    font-weight: 700;
 }
 
 .penguin-card {

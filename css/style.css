@@ -3,18 +3,14 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+body h1, h2{
+    font-family: 'Bebas Neue', cursive;
+}
 
 
 a {
     text-decoration: none;
     transition: ease all .2s;
-}
-
-
-h1,
-h2 {
-    font-family: 'Oswald', sans-serif;
-    color: #363958;
 }
 
 /* ----------------------------coloring------------------------------------*/

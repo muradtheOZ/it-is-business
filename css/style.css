@@ -77,3 +77,33 @@ a {
     border: 0;
     background-color: white;
 }
+/*bounous part*/
+.small-button{
+    text-decoration: none;
+    margin: 5px 4px;
+    padding: 1px  3px;
+    color: whitesmoke;
+    font-weight:500;
+    border-radius: 3px;
+    font-size: 16px;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    font-family:'Roboto', sans-serif;
+}
+
+.single-showcase-block{
+    border-radius: 14px;
+    background-color: white;
+}
+.one-third{
+    width: 26%;
+    float: left;
+    padding:2%;
+    
+
+}
+.one-third img{
+    width: 100%;
+}
+.bottom-text{
+    text-align: center;
+}

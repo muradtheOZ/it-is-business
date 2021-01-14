@@ -1,0 +1,65 @@
+/*font defination start*/
+body h1,h2,h3{
+    font-family: 'Bebas Neue', cursive;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color:#3C3C3C;
+    
+}
+
+.responsive-navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    
+}
+.responsive-navbar-brand img{
+    width:15%
+}
+/*font defination end*/
+
+/*color dfining start*/
+.green-shade{
+    color: #A4BC46;
+}
+.blue-shade{
+    color: #363958;
+
+}
+.yellow-shade{
+    color:#FABE4C;
+}
+.green-bg{
+    background-color: #A4BC46;
+}
+/*color dfining End*/
+
+
+ div img{
+     width:549px;
+ }
+ div h1{
+  
+     font-size: 80px;
+     font-weight: 700;
+ }
+
+
+ @media (max-width: 768px) { 
+    div h1{
+  
+        font-size: 80px;
+        font-weight: 700;
+    }
+        
+    }
+    div img{
+        width:360px;
+    }
+    .resposive-img img{
+        width: 150px;
+    }
+ 
+
